@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=WDXL+Lubrifont+TC&display=swap');
+
+body {
+    font-family: "WDXL Lubrifont TC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+/* Seletor de elemento*/
+p{
+    color: rgb(119, 17, 122);
+}  
+
+h1 {
+    color: navy;
+}
+
+.myClass{
+    border-style: ridge;
+}
+
+
+li.myClass{
+    font-size: xx-large;
+}
+
+
+#opa {
+    color: aqua;
+}
