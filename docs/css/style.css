@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(230, 173, 218);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.menu {
+    background-color: rgb(255, 224, 246);
+    padding: 2rem;
+    margin-right: 2rem;
+    width: 15%;
+}
+
+.conteudo {
+    padding: 2rem;
+    width: 50%;
+}
+
+.item-menu {
+    padding: 1rem;
+    margin: 1rem 0 1rem 0;
+    list-style: none;
+}
+
+.item-menu:hover {
+    background-color: rgba(0, 0, 0, 0.116);
+}
+
